@@ -1,0 +1,25 @@
+.slider-nav {
+    display: none;
+    margin-top: 1em;
+}
+
+.slider-nav button {
+    cursor: pointer;
+}
+
+.slider {
+    width: 600px;
+    height: 350px;
+    overflow: hidden;
+}
+
+.slider ul {
+    width: 10000px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.slider li {
+    float: left;
+}
